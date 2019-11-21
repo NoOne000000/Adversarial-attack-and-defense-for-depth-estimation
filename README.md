@@ -6,7 +6,7 @@ Dependencies
 Running
 -
 
-Download the test set and trained networks for testing : [data and models](https://drive.google.com/file/d/1Yzd0tv0eBypYhLt4ErHMQ-e7a0df5zx2/view?usp=sharing) <br>
+Download and unzip the test set and trained networks for testing : [data and models](https://drive.google.com/file/d/1Yzd0tv0eBypYhLt4ErHMQ-e7a0df5zx2/view?usp=sharing) <br>
 
 + ### Test N_adv<br>
   python test_N_adv.py<br>
